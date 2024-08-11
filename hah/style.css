@@ -57,7 +57,6 @@ body {
     color: #777;
 }
 
-/* Media Query for screens with a max-width of 768px */
 @media (max-width: 768px) {
     .products {
         flex-direction: column;
